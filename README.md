@@ -32,13 +32,13 @@ See [opendaylight-simple](https://github.com/vorburger/opendaylight-simple) for 
 
 2. How to enable stopping the simple dist? ;)  Ctrl-D does work, usual commands don't:
 
-    karaf@root()> exit
-    karaf@root()> logout
-    Command not found: logout
-    karaf@root()> system:shutdown
-    Command not found: system:shutdown
+       karaf@root()> exit
+       karaf@root()> logout      
+       Command not found: logout  
+       karaf@root()> system:shutdown
+       Command not found: system:shutdown
 
 3. How to add `--help` in simple?
 
-    karaf@root()> test:test --help
-    karaf@root()> help test:test
+       karaf@root()> test:test --help
+       karaf@root()> help test:test
