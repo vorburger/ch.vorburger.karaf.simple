@@ -1,6 +1,8 @@
 # ch.vorburger.karaf.simple
 
-see [opendaylight-simple](https://github.com/vorburger/opendaylight-simple) for more background.
+Demo illustrating how to run custom Apache Karaf (OSGi runtime middleware) commands without actually requiring Karaf and OSGi.
+
+See [opendaylight-simple](https://github.com/vorburger/opendaylight-simple) for more background what motivated this.
 
 ## Build
 
